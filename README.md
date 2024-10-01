@@ -2,6 +2,8 @@
 
 **`Fullstack Developer`**
 
+I'm a Software engineer with 10+ years of hands-on development experience. 
+
 ## 🕵️‍♂️ Interests
 - TypeScript
 - React
