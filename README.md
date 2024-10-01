@@ -1,4 +1,22 @@
-## Hi there 👋
+# 🏄‍♂️ Jakša Bašić
+
+**`Fullstack Developer`**
+
+## 🕵️‍♂️ Interests
+- TypeScript
+- React
+- React Native
+- Next.js
+- GraphQL
+- Node.js
+- Raspberry Pi
+  
+## 🕸️ Social
+
+- Homepage: [http://jaksabasic.com](http://jaksabasic.com)
+- Twitter: [https://twitter.com/jaksabasic](https://twitter.com/jaksabasic)
+- Github: [https://github.com/jaksa-b](https://github.com/jaksa-b)
+- LinkedIn: [https://www.linkedin.com/in/jaksabasic](https://www.linkedin.com/in/jaksabasic)
 
 <!--
 **jaksa-b/jaksa-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
