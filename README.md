@@ -10,7 +10,7 @@ I'm a Software engineer with 10+ years of hands-on development experience.
 - React Native
 - Next.js
 - GraphQL
-- Node.js
+- Node.js (express, nest.js)
 - Raspberry Pi
 
 ## 🛠 Tech Stack
