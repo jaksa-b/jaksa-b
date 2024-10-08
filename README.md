@@ -9,8 +9,9 @@ I'm a Software engineer with 10+ years of hands-on development experience.
 - React
 - React Native
 - Next.js
-- GraphQL
+- GraphQL (Apollo)
 - Node.js (express, nest.js)
+- PostgreSql
 - Raspberry Pi
 
 ## 🛠 Tech Stack
