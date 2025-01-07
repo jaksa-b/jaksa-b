@@ -31,7 +31,7 @@ I'm a Software engineer with 10+ years of hands-on development experience.
 - LinkedIn: [https://www.linkedin.com/in/jaksabasic](https://www.linkedin.com/in/jaksabasic)
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaksa-b)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaksa-b&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **jaksa-b/jaksa-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
